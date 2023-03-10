@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **RedHat and GCP Technologies.**
 
-- 👨‍💻 All of my details are available at **[My Portfolio](https://avinashpereraportfolio.epizy.com)**
+- 👨‍💻 All of my details are available at **[My Portfolio](https://avinashp.x10.mx)**
 
 - 📫 How to reach me **avinashpereranimal@gmail.com**
 
